@@ -1,2 +1,2 @@
-# DEMO
-A repo to understand the working of git
+# MACHINE LEARNING
+Learning ML
